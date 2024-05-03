@@ -1,0 +1,26 @@
+ 
+Lint: Lint is the computer science term for a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.
+
+https://www.pylint.org/
+https://www.jslint.com/
+http://csslint.net/
+https://jshint.com/
+
+Learn X in Y minutes
+Learn yaml in Y minutes
+https://learnxinyminutes.com/docs/yaml/
+https://learnxinyminutes.com/docs/python/
+https://learnxinyminutes.com/docs/jinja/
+
+
+https://www.bairesdev.com/tools/json2yaml/
+https://www.yamllint.com/
+https://regexr.com/
+https://regex101.com/
+
+https://onlinetexttools.com/split-text
+Output Separator Options >>> , (comma)
+Character before each chunk. >>> {item[" 
+Character after each chunk. >>>  "]}
+
+https://developer.cisco.com/learning/modules/sdx-intro-nxos/
